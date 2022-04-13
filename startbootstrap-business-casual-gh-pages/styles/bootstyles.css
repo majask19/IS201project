@@ -1,0 +1,178 @@
+body{
+    background-image: linear-gradient(rgba(47, 23, 15, 0.65), rgba(47, 23, 15, 0.65)), url("../images/backplant.jpg");
+    background-color: #7B876D;
+  }
+
+.common {
+    position: absolute;
+    background-color:#C4C6BA;
+}
+
+.header {
+    top: 0px;
+    left: 0px;
+    right: 0px;
+    height: 50px;
+    background-color: #363A1E;
+    text-align: center;
+    padding-top: 35px;
+}
+
+.body  {
+    margin-top: 95px;
+    margin-left: 40px;
+    margin-right: 40px;
+    margin-bottom: 40px;
+    border: solid 5px #363A1E;
+    height: auto;
+    width: auto;
+    background-color:#C4C6BA;
+    padding-left: 30px;
+    padding-top: 30px;
+
+}
+
+.footer {
+    bottom: 0px;
+    height: 30px;
+    left: 0px;
+    right: 0px;
+    font-size: 13px;
+    color: rgb(151, 146, 146);
+    text-align: center;
+    position: fixed;
+}
+
+.headfootcolor {
+    background-color: #363A1E;
+  }
+
+.pages {
+  
+    color: #C4C6BA;
+    text-decoration: none;
+    font-weight: bolder;
+    font-size: x-large;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 100px;
+}
+
+a:hover {text-decoration: underline;}
+
+.tabtext {
+    background-position: bottom;
+    font-size: large;
+    font-weight: bold;
+    padding-bottom: 65px;
+
+}
+
+.tabsize {
+    height: auto;
+    width: 70%;
+}
+
+h1 {
+    background-color:#363A1E;
+    color: #C4C6BA;
+    padding: 30px;
+    font-size: 40px;
+}
+
+
+
+
+  /*OLD STUFF */
+
+  /* .tab1 {
+    border: #7B876D solid 1px;
+    top: 10px;
+    bottom: 320px;
+    left: 10px;
+    right: 710px;
+    height: 300px;
+    width: 685px;
+}
+
+.tab2 {
+    border: #7B876D solid 1px;
+    top: 10px;
+    bottom: 320px;
+    right: 10px;
+    left: 710px;
+    height: 300px;
+    width: 685px;
+}
+
+.tab3 {
+    border: #7B876D solid 1px;
+    top: 320px;
+    bottom: 10px;
+    left: 10px;
+    right: 710px;
+    height: 300px;
+    width: 685px;
+}
+
+.tab4 {
+    border: #7B876D solid 1px;
+    top: 320px;
+    bottom: 10px;
+    left: 710px;
+    right: 10px;
+    height: 300px;
+    width: 685px;
+} */
+
+
+/* MARGINS ATTEMPT
+
+.tab1 {
+    border: #7B876D solid 1px;
+    top: 10px;
+    left: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+    height: 300px;
+    width: 685px;
+}
+
+.tab2 {
+    border: #7B876D solid 1px;
+    top: 10px;
+    right: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+    height: 300px;
+    width: 685px;
+}
+
+.tab3 {
+    border: #7B876D solid 1px;
+    bottom: 10px;
+    left: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+    height: 300px;
+    width: 685px;
+}
+
+.tab4 {
+    border: #7B876D solid 1px;
+    bottom: 10px;
+    right: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+    height: 300px;
+    width: 685px;
+}
+*/
